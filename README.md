@@ -7,7 +7,6 @@ language: de
 voice:    Deutsch Female
 logo:     https://tieraugen.doctor/assets/images/spaltlampe.jpg
 date:     22.03. 2024
-comment:  todo
 
 @style
 .lia-responsive-voice  {
