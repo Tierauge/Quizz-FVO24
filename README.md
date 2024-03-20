@@ -2,7 +2,7 @@
 
 author:   Dr. Sabine Sahr
 email:    Tierauge@gmail.com
-version:  1.0.0
+version:  1.0.1
 language: de
 voice:    Deutsch Female
 logo:     https://tieraugen.doctor/assets/images/spaltlampe.jpg
@@ -206,9 +206,9 @@ Wie lautet die Diagnose?
 *******************************************************
 Welche Diagnosen kann man an der Hornhaut stellen?
 
-[(A)] __A:__  SCCED
-[(B)] __B:__  Hornhautfremdkörper mit Vaskularisation der Hornhaut
-[(C)] __C:__  chronische Keratitis
+[[A]] __A:__  SCCED
+[[B]] __B:__  Hornhautfremdkörper mit Vaskularisation der Hornhaut
+[[C]] __C:__  chronische Keratitis
 ******************************************
 
 ## 8. Perser Garfield, 1,5 Jahre
@@ -287,7 +287,7 @@ Diagnose?
 Welche Art Ulkus sehe ich?
 
 [(A)] __A:__  Oberfl. Hornhauterosion?
-[(B)] __B:__  Ensenile endotheliale Hornhautdystrophie?
+[(B)] __B:__  Senile endotheliale Hornhautdystrophie?
 [(C)] __C:__  Tiefstromales Hornhautulkus?
 *******************************************************
 
